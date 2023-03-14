@@ -8,8 +8,6 @@ The dataset contains three different classes, including healthy, type 1 disease,
 
 - Train folder: This folder has images for training the model, which is divided into subfolders having the same name as the class.
 - Test folder: This folder has images for testing the model, which is divided into subfolders having the same name as the class.
-- Link to the data: https://drive.google.com/drive/folders/1-JiN8ErcA30axTVT5jgiU-k24fKqULU4?usp=share_link
-
 
 ## Tasks
 Following operations should be performed using Keras or PyTorch or Torch vision:
