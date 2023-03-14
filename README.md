@@ -5,6 +5,7 @@ To build a model using a convolutional neural network that can classify lung inf
 
 ## Dataset Description
 The dataset contains three different classes, including healthy, type 1 disease, and type 2 disease.
+Link to the data: https://drive.google.com/drive/folders/1-JiN8ErcA30axTVT5jgiU-k24fKqULU4?usp=share_link
 
 - Train folder: This folder has images for training the model, which is divided into subfolders having the same name as the class.
 - Test folder: This folder has images for testing the model, which is divided into subfolders having the same name as the class.
